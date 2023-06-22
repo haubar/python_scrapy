@@ -1,0 +1,8 @@
+urllib3>=1.20
+furl>=2.0
+python-dotenv>=0.13.0 
+fake-useragent==0.1.11
+PyMySQL>=0.10.1
+pluck>=0.2
+argparse>=1.4.0
+free-proxy>=1.0.3

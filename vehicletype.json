@@ -1,0 +1,772 @@
+{
+    "Maserati": {
+        "series": [{
+                "Levante": "suv"
+            },
+            {
+                "GranTurismo": "GranTurismo"
+            },
+            {
+                "Ghibli": "Ghibli"
+            },
+            {
+                "Quattroporte": "Quattroporte"
+            }
+        ]
+    },
+    "BMW": {
+        "series": [{
+            "2-Series": [{
+                    "228 Gran Coupe": "sedan"
+                },
+                {
+                    "M235 Gran Coupe": "sedan"
+                },
+                {
+                    "228i": "coupe"
+                },
+                {
+                    "228xi": "coupe"
+                },
+                {
+                    "230i": "coupe"
+                },
+                {
+                    "230i xDrive": "coupe"
+                },
+                {
+                    "235xi": "coupe"
+                },
+                {
+                    "235i xDrive": "coupe"
+                },
+                {
+                    "M240": "coupe"
+                },
+                {
+                    "M240i": "coupe"
+                }
+            ],
+            "3-Series": [{
+                    "320i": "coupe"
+                },
+                {
+                    "320i xDrive": "coupe"
+                },
+                {
+                    "330": "coupe"
+                },
+                {
+                    "330i": "coupe"
+                },
+                {
+                    "330i xDrive": "coupe"
+                },
+                {
+                    "340i": "coupe"
+                },
+                {
+                    "M340": "coupe"
+                }
+            ],
+            "4-Series": [{
+                    "430 Gran Coupe": "sedan"
+                },
+                {
+                    "4-Series GranCoupe": "sedan"
+                },
+                {
+                    "440 Gran Coupe": "sedan"
+                },
+                {
+                    "430": "coupe"
+                },
+                {
+                    "430i": "coupe"
+                },
+                {
+                    "430i xDrive": "coupe"
+                },
+                {
+                    "440": "coupe"
+                },
+                {
+                    "440i": "coupe"
+                },
+                {
+                    "440i xDrive": "coupe"
+                },
+                {
+                    "M440": "coupe"
+                }
+            ],
+            "5-Series": [{
+                    "528i": "coupe"
+                },
+                {
+                    "530": "coupe"
+                },
+                {
+                    "530i": "coupe"
+                },
+                {
+                    "530i xDrive": "coupe"
+                },
+                {
+                    "540": "coupe"
+                },
+                {
+                    "540i": "coupe"
+                },
+                {
+                    "540i xDrive": "coupe"
+                },
+                {
+                    "550i": "coupe"
+                },
+                {
+                    "550i xDrive": "coupe"
+                },
+                {
+                    "M550": "coupe"
+                }
+            ],
+            "6-Series": [{
+                    "6-Series GranCoupe": "sedan"
+                },
+                {
+                    "640i": "coupe"
+                },
+                {
+                    "640i xDrive": "coupe"
+                },
+                {
+                    "650i": "coupe"
+                },
+                {
+                    "650i xDrive": "coupe"
+                }
+            ],
+            "7-Series": [{
+                    "740": "sedan"
+                },
+                {
+                    "740i": "sedan"
+                },
+                {
+                    "740i xDrive": "sedan"
+                },
+                {
+                    "750": "sedan"
+                },
+                {
+                    "750i": "sedan"
+                },
+                {
+                    "750i xDrive": "sedan"
+                },
+                {
+                    "M760": "sedan"
+                },
+                {
+                    "M760i xDrive": "sedan"
+                }
+            ],
+            "8-Series": [{
+                    "8-Series Gran Coupe(四門)": "sedan"
+                },
+                {
+                    "M850 Gran Coupe": "sedan"
+                },
+                {
+                    "840 Gran Coupe": "sedan"
+                },
+                {
+                    "850i": "coupe"
+                },
+                {
+                    "850xi": "coupe"
+                },
+                {
+                    "M850": "coupe"
+                },
+                {
+                    "840": "coupe"
+                },
+                {
+                    "840i": "coupe"
+                },
+                {
+                    "840i xDrive": "coupe"
+                }
+            ],
+            "i-Series(純電動)": [{
+                    "i3": "electric"
+                },
+                {
+                    "i3 REX": "electric"
+                },
+                {
+                    "i4": "electric"
+                },
+                {
+                    "iX": "electric"
+                }
+            ],
+            "ALPINA": [{
+                    "ALPINA B6": "special"
+                },
+                {
+                    "ALPINA B7 xDrive": "special"
+                }
+            ],
+            "Z-Series": [{
+                    "Z4": "convertible"
+                },
+                {
+                    "Z4 sDrive": "convertible"
+                }
+            ],
+            "X1-Series": [{
+                    "X1": "suv"
+                },
+                {
+                    "X1 28i": "suv"
+                },
+                {
+                    "X1 xDrive28i": "suv"
+                },
+                {
+                    "X1 sDrive28i": "suv"
+                }
+            ],
+            "X2-Series": [{
+                "X2": "suv"
+            }],
+            "X3-Series": [{
+                    "X3": "suv"
+                },
+                {
+                    "X3 M": "suv"
+                }
+            ],
+            "X4-Series": [{
+                    "X4": "couple"
+                },
+                {
+                    "X4 xDrive": "couple"
+                },
+                {
+                    "X4 M": "couple"
+                }
+            ],
+            "X5-Series": [{
+                    "X5": "suv"
+                },
+                {
+                    "X5M": "suv"
+                }
+            ],
+            "X6-Series": [{
+                "X6": "couple"
+            }],
+            "X7-Series": [{
+                "X7": "suv"
+            }],
+            "M2": [{
+                "M2": "couple"
+            }],
+            "M3": [{
+                "M3": "sedan"
+            }],
+            "M4": [{
+                "M4": "couple"
+            }],
+            "M5": [{
+                "M5": "sedan"
+            }],
+            "M6": [{
+                "M6": "sedan"
+            }],
+            "M8": [{
+                "M8": "couple"
+            }],
+            "M8 Gran Coupe": [{
+                "M8 Gran Coupe": "sedan"
+            }]
+        }]
+    },
+    "BENZ": {
+        "series": [{
+                "A-CLASS": [{
+                        "A220W": "sedan"
+                    },
+                    {
+                        "A220W4": "sedan"
+                    },
+                    {
+                        "A35W4": "sedan"
+                    },
+                    {
+                        "AMG A 35": "sedan"
+                    }
+                ]
+            },
+            {
+                "C-CLASS": [{
+                        "C300W": "sedan"
+                    },
+                    {
+                        "C300W4": "sedan"
+                    },
+                    {
+                        "C43W4": "sedan"
+                    },
+                    {
+                        "C450W4": "sedan"
+                    },
+                    {
+                        "C63W": "sedan"
+                    },
+                    {
+                        "C63WS": "sedan"
+                    },
+                    {
+                        "C300C": "couple"
+                    },
+                    {
+                        "C43C": "couple"
+                    },
+                    {
+                        "C63C": "couple"
+                    },
+                    {
+                        "C43C4": "couple"
+                    },
+                    {
+                        "C300C4": "couple"
+                    },
+                    {
+                        "C63CS": "couple"
+                    },
+                    {
+                        "C300A4": "convertible"
+                    },
+                    {
+                        "C43A4": "convertible"
+                    },
+                    {
+                        "C63A": "convertible"
+                    },
+                    {
+                        "C63AS": "convertible"
+                    },
+                    {
+                        "C300A": "convertible"
+                    }
+                ]
+            },
+            {
+                "E-CLASS": [{
+                        "E300W": "sedan"
+                    },
+                    {
+                        "E300W4": "sedan"
+                    },
+                    {
+                        "E350W": "sedan"
+                    },
+                    {
+                        "E350W4": "sedan"
+                    },
+                    {
+                        "E400W": "sedan"
+                    },
+                    {
+                        "E400W4": "sedan"
+                    },
+                    {
+                        "E43W4": "sedan"
+                    },
+                    {
+                        "E450W4": "sedan"
+                    },
+                    {
+                        "E53W4": "sedan"
+                    },
+                    {
+                        "E63W4S": "sedan"
+                    },
+                    {
+                        "E400C": "couple"
+                    },
+                    {
+                        "E400C4": "couple"
+                    },
+                    {
+                        "E450C": "couple"
+                    },
+                    {
+                        "E450C4": "couple"
+                    },
+                    {
+                        "E53C4": "couple"
+                    },
+                    {
+                        "E550C": "couple"
+                    },
+                    {
+                        "E400A": "convertible"
+                    },
+                    {
+                        "E400A4": "convertible"
+                    },
+                    {
+                        "E450A": "convertible"
+                    },
+                    {
+                        "E450A4": "convertible"
+                    },
+                    {
+                        "E550A": "convertible"
+                    },
+                    {
+                        "E53A4": "convertible"
+                    }
+                ]
+            },
+            {
+                "S-CLASS": [{
+                        "S450V": "sedan"
+                    },
+                    {
+                        "S450V4": "sedan"
+                    },
+                    {
+                        "S550V": "sedan"
+                    },
+                    {
+                        "S550V4": "sedan"
+                    },
+                    {
+                        "S560V": "sedan"
+                    },
+                    {
+                        "S560V4": "sedan"
+                    },
+                    {
+                        "S600V": "sedan"
+                    },
+                    {
+                        "S63V4": "sedan"
+                    },
+                    {
+                        "S65V": "sedan"
+                    },
+                    {
+                        "S550C4": "couple"
+                    },
+                    {
+                        "S560C4": "couple"
+                    },
+                    {
+                        "S63C4": "couple"
+                    },
+                    {
+                        "S550A": "convertible"
+                    },
+                    {
+                        "S560A": "convertible"
+                    },
+                    {
+                        "S63A4": "convertible"
+                    },
+                    {
+                        "S65A": "convertible"
+                    },
+                ]
+            },
+            {
+                "SL-CLASS": [{
+                        "SL 550": "convertible"
+                    },
+                    {
+                        "SL400": "convertible"
+                    },
+                    {
+                        "SL450R": "convertible"
+                    },
+                    {
+                        "SL550": "convertible"
+                    },
+                    {
+                        "SL550R": "convertible"
+                    },
+                    {
+                        "SL63R": "convertible"
+                    },
+                ]
+            },
+            {
+                "SLC-CLASS": [{
+                        "SLC300R": "convertible"
+                    },
+                    {
+                        "SLC43R": "convertible"
+                    },
+                ]
+            },
+            {
+                "SLK-CLASS": [{
+                        "SLK300": "convertible"
+                    },
+                    {
+                        "SLK350": "convertible"
+                    },
+                ]
+            },
+            {
+                "CLA-CLASS": [{
+                        "CLA 250": "couple"
+                    },
+                    {
+                        "CLA250C": "couple"
+                    },
+                    {
+                        "CLA250C4": "couple"
+                    },
+                    {
+                        "CLA35C4": "couple"
+                    },
+                    {
+                        "CLA45C4": "couple"
+                    },
+                ]
+            },
+            {
+                "CLS-CLASS": [{
+                        "CLS 450": "couple"
+                    },
+                    {
+                        "CLS400C": "couple"
+                    },
+                    {
+                        "CLS400C4": "couple"
+                    },
+                    {
+                        "CLS450C": "couple"
+                    },
+                    {
+                        "CLS450C4": "couple"
+                    },
+                    {
+                        "CLS53C4": "couple"
+                    },
+                    {
+                        "CLS550C": "couple"
+                    },
+                    {
+                        "CLS550C4": "couple"
+                    },
+                    {
+                        "CLS63C4S": "couple"
+                    },
+                ]
+            },
+            {
+                "GLA-CLASS": [{
+                        "GLA250": "suv"
+                    },
+                    {
+                        "GLA250W": "suv"
+                    },
+                    {
+                        "GLA250W4": "suv"
+                    },
+                    {
+                        "GLA35W4": "suv"
+                    },
+                    {
+                        "GLA45W4": "suv"
+                    },
+                ]
+            },
+            {
+                "GLB-CLASS": [{
+                    "GLB250": "suv"
+                }]
+            },
+            {
+                "GLC-CLASS": [{
+                        "GLC300C4": "couple"
+                    },
+                    {
+                        "GLC43C4": "couple"
+                    },
+                    {
+                        "GLC63C4": "couple"
+                    },
+                    {
+                        "GLC63C4S": "couple"
+                    },
+                    {
+                        "GLC300": "suv"
+                    },
+                    {
+                        "GLC300W": "suv"
+                    },
+                    {
+                        "GLC300W4": "suv"
+                    },
+                    {
+                        "GLC43W": "suv"
+                    },
+                    {
+                        "GLC43W4": "suv"
+                    },
+                    {
+                        "GLC63W4": "suv"
+                    }
+                ]
+            },
+            {
+                "GLE-CLASS": [{
+                        "GLE53C4": "couple"
+                    },
+                    {
+                        "GLE43C4": "couple"
+                    },
+                    {
+                        "GLE450C4": "couple"
+                    },
+                    {
+                        "GLE63C4S": "couple"
+                    },
+                    {
+                        "GLE43W4": "suv"
+                    },
+                    {
+                        "GLE63W4": "suv"
+                    },
+                    {
+                        "GLE63W4S": "suv"
+                    },
+                    {
+                        "GLE350W": "suv"
+                    },
+                    {
+                        "GLE350W4": "suv"
+                    },
+                    {
+                        "GLE43W4": "suv"
+                    },
+                    {
+                        "GLE 350": "suv"
+                    },
+                    {
+                        "GLE 450": "suv"
+                    },
+                    {
+                        "GLE 580": "suv"
+                    }
+                ]
+            },
+            {
+                "GLS-CLASS": [{
+                        "GLS450W4": "suv"
+                    },
+                    {
+                        "GLS580W4": "suv"
+                    },
+                    {
+                        "GLS450W4": "suv"
+                    },
+                    {
+                        "GLS550W4": "suv"
+                    },
+                    {
+                        "GLS63W4": "suv"
+                    },
+                    {
+                        "GLS450W4": "suv"
+                    },
+                    {
+                        "GLS550W4": "suv"
+                    },
+                    {
+                        "GLS63W4": "suv"
+                    },
+                    {
+                        "GLS450W4": "suv"
+                    },
+                    {
+                        "GLS550W4": "suv"
+                    },
+                    {
+                        "GLS63W4": "suv"
+                    },
+                    {
+                        "GLS 450": "suv"
+                    },
+                    {
+                        "GLS 580": "suv"
+                    }
+                ]
+            },
+            {
+                "Maybach": [{
+                        "Maybach GLS 600": "suv",
+                    },
+                    {
+                        "Maybach S 650": "sedan",
+                    },
+                    {
+                        "S550X4": "sedan",
+                    },
+                    {
+                        "S560X4": "sedan",
+                    },
+                    {
+                        "S600X": "sedan",
+                    },
+                    {
+                        "S650X": "sedan",
+                    }
+                ]
+            },
+            {
+                "AMG-GT": [{
+                        "GT53C4": "suv"
+                    },
+                    {
+                        "GT63C4": "suv"
+                    },
+                    {
+                        "GT63C4S": "suv"
+                    },
+                    {
+                        "GTC": "suv"
+                    },
+                    {
+                        "GT": "suv"
+                    },
+                    {
+                        "GTR": "suv"
+                    },
+                    {
+                        "GTS": "suv"
+                    },
+                    {
+                        "GTA": "suv"
+                    },
+                    {
+                        "GTCA": "suv"
+                    },
+                    {
+                        "GTRA": "suv"
+                    }
+                ]
+            }
+        ]
+    }
+}
